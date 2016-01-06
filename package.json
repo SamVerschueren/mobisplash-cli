@@ -1,0 +1,57 @@
+{
+  "name": "mobisplash-cli",
+  "version": "0.0.0",
+  "description": "Mobile app splash screen generator",
+  "license": "MIT",
+  "repository": "SamVerschueren/mobisplash-cli",
+  "author": {
+    "name": "Sam Verschueren",
+    "email": "sam.verschueren@gmail.com",
+    "url": "github.com/SamVerschueren"
+  },
+  "bin": {
+    "mobisplash": "cli.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "cli-app",
+    "cli",
+    "mobile",
+    "app",
+    "application",
+    "splash",
+    "screen",
+    "splashscreen",
+    "generator",
+    "mobisplash",
+    "cordova",
+    "android",
+    "ios",
+    "blackberry10",
+    "ninepatch",
+    "9patch"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "log-symbols": "^1.0.2",
+    "meow": "^3.6.0",
+    "mobisplash": "^0.1.0",
+    "obj-clean": "^1.0.1",
+    "update-notifier": "^0.6.0"
+  },
+  "devDependencies": {
+    "ava": "*",
+    "execa": "^0.1.1",
+    "path-exists": "^2.1.0",
+    "tempfile": "^1.1.1",
+    "xo": "*"
+  }
+}
