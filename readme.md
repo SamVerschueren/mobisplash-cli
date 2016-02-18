@@ -19,9 +19,9 @@ $ mobisplash --help
     $ mobisplash <file>
 
   Options
-    -p, --platform      Platform to generate icons for
-    -b, --background    Color of the icon background if the icon is transparant [Default: white]
-    -r, --contentRatio  Logo-icon ratio [Default: 0.8]
+    -p, --platform      Platform to generate splash screens for
+    -b, --background    Color of the splash screen background [Default: white]
+    -r, --contentRatio  Logo-splash screen ratio [Default: 0.8]
     -o, --out           Output directory [Default: cwd]
     --orientation       Orientation to generate the splash screens for [Default: both]
     --9patch            9-patch the Android splash screens [Default: true]
@@ -42,7 +42,7 @@ $ mobisplash --help
 
 ## Platforms
 
-A list of the available platforms and their generated icons can be found [here](https://github.com/SamVerschueren/mobisplash#platforms).
+A list of the available platforms and their generated splash screens can be found [here](https://github.com/SamVerschueren/mobisplash#platforms).
 
 
 ## Related
