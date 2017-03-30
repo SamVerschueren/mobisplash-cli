@@ -1,6 +1,6 @@
 {
   "name": "mobisplash-cli",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Mobile app splash screen generator",
   "license": "MIT",
   "repository": "SamVerschueren/mobisplash-cli",
