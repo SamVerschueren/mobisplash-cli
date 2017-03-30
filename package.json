@@ -43,7 +43,7 @@
     "chalk": "^1.1.1",
     "log-symbols": "^1.0.2",
     "meow": "^3.6.0",
-    "mobisplash": "^0.1.0",
+    "mobisplash": "^0.2.1",
     "obj-clean": "^1.0.1",
     "update-notifier": "^0.6.0"
   },
